@@ -2,7 +2,7 @@ print("  *********************************************************************")
 print("  *********************** ESCOLHA O SEU JOGO!!! ***********************")
 print("  *********************************************************************\n")
 
-jogo = input("Digite 1 para o Teste Jedi ou 2 para o Jogo da Forca.\n")
+jogo = input("Digite 1 para o Teste Jedi ou 2 para o Jogo da Forca!!!\n")
 
 if jogo == "1":
     import advinhacao
